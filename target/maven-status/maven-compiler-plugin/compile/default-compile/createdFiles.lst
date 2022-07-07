@@ -1,0 +1,4 @@
+com/ued/spring5jokesapp/Spring5JokesAppApplication.class
+com/ued/spring5jokesapp/services/JokeServiceImpl.class
+com/ued/spring5jokesapp/services/JokeService.class
+com/ued/spring5jokesapp/controllers/JokeController.class
